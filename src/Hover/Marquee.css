@@ -1,0 +1,11 @@
+@keyframes marquee {
+    from { transform: translateX(100%); }
+    to { transform: translateX(-100%); }
+  }
+  
+  .animate-marquee {
+    display: flex; /* Ensure text stays in a single line */
+    width: max-content; /* Avoid wrapping */
+    animation: marquee 45s linear infinite;
+  }
+  
