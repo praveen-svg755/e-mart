@@ -427,8 +427,10 @@ article p{
 
 }
 .selected-product-input label{
-  width: 40%;
+  width: 30%;
   display: flex;
+  padding: 10px;
+  
 }
 .cart-Section{
   max-width: 100%;
