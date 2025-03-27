@@ -378,7 +378,7 @@ article p{
 
 
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 768px) {
   
   .nav-section{
   width: 100%;
@@ -433,7 +433,9 @@ article p{
 .cart-Section{
   max-width: 100%;
 }
-
+.index-page{
+  flex-wrap: wrap;
+}
 
   
 }
