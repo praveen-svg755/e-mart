@@ -436,6 +436,8 @@ article p{
 .index-page{
   flex-direction: column;
 }
-
+.footer{
+  display: none;
+}
   
 }
