@@ -434,7 +434,7 @@ article p{
   max-width: 100%;
 }
 .index-page{
-  flex-wrap: wrap;
+  flex-direction: column;
 }
 
   
